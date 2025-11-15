@@ -28,17 +28,18 @@ Linux End of Life schedule (Distro, Kernel)
 - [Linux Kernel](https://www.kernel.org/category/releases.html) : Was 5 years, now 3 years
 - [Linux Foundation : Civil Infrastructure Platform](https://wiki.linuxfoundation.org/civilinfrastructureplatform/start): 10 years
 - [Wikipedia : Linux kernel version history](https://en.wikipedia.org/wiki/Linux_kernel_version_history)
+- Redhat ignores LTS-Kernel, they have their own kernel-backports
 
-|**EOL when**| **Kernel Version** | **Maintainer** | **Date released** |
-| - | - | - | - |
-| 2025-12 | 5.4 | Kernel | 2019-11 |
-| 2026-12 | 5.10 | Kernel | 2020-12 |
-| 2026-12 | 5.15 | Kernel | 2021-10 |
-| 2026-12 | 6.6 | Kernel | 2023-10 |  
-| 2026-12 | 6.12 | Kernel | 2024-11 | 
-| **2027-01** | **4.4** | **CIP** | 2017-01 |
-| 2027-12 | 6.1 | Kernel | 2022-12 |
-| **2029-01** | **4.19** | **CIP** | 2019-01 |
-| **2031-01** | **5.10** | **CIP** | 2021-12 |
-| **2033-08** | **6.1** | **CIP** | 2023-07 |
-| **2035-06** | **6.12** | **CIP** | 2025-05 |
+|**EOL when**| **Kernel Version** | **Maintainer** | **Date released** | **Used in** |
+| - | - | - | - | - |
+| 2025-12 | 5.4 | Kernel | 2019-11 | Ubuntu 20.04 |
+| 2026-12 | 5.10 | Kernel | 2020-12 | Debian 11 (Bullseye) |
+| 2026-12 | 5.15 | Kernel | 2021-10 | Ubuntu 22.04 (Jammy) |
+| 2026-12 | 6.6 | Kernel | 2023-10 | Removed ReiserFS | 
+| 2026-12 | 6.12 | Kernel | 2024-11 | Debian 13 (Trixie) / RHEL10 |
+| **2027-01** | **4.4** | **CIP** | 2017-01 | Ubuntu 16.04 |
+| 2027-12 | 6.1 | Kernel | 2022-12 | Debian 12 (Bookworm) |
+| **2029-01** | **4.19** | **CIP** | 2019-01 | Debian 10 (Buster) |
+| **2031-01** | **5.10** | **CIP** | 2021-12 | Debian 11 (Bullseye) |
+| **2033-08** | **6.1** | **CIP** | 2023-07 | Debian 12 (Bookworm) |
+| **2035-06** | **6.12** | **CIP** | 2025-05 | Debian 13 (Trixie) / RHEL10 |
