@@ -29,8 +29,8 @@ Linux End of Life schedule (Distro, Kernel)
 - [Linux Foundation : Civil Infrastructure Platform](https://wiki.linuxfoundation.org/civilinfrastructureplatform/start): 10 years
 - [Wikipedia : Linux kernel version history](https://en.wikipedia.org/wiki/Linux_kernel_version_history)
 
-|**EOL when**| **Kernel Version** | **Maintainer** |
-| - | - | - |
+|**EOL when**| **Kernel Version** | **Maintainer** | **Date released** |
+| - | - | - | - |
 | 2025-12 | 5.4 | Kernel | 2019-11 |
 | 2026-12 | 5.10 | Kernel | 2020-12 |
 | 2026-12 | 5.15 | Kernel | 2021-10 |
