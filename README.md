@@ -12,18 +12,18 @@ Linux End of Life schedule (Distro, Kernel)
 | 2026-04 | OpenSuse | Leap | 15.6 | 6.4 |
 | 2026-04 | Alpine | Alpine | 3.20 | 6.6 |
 | 2026-05 | RedHat | Fedora | 42 | 6.14 |
-| **2026-06** | **Debian** | **Debian** | **12 (Bookworm)** | 6.1 |
-| **2026-08** | **Debian** | **Debian** | **11 (Bullseye) LTS support** | 5.10 |
+| **2026-06** | **Debian** | **Debian** | **12 (Bookworm) [Sec support]** | 6.1 |
+| **2026-08** | **Debian** | **Debian** | **11 (Bullseye) [LTS support]** | 5.10 |
 | 2026-11 | Alpine | Alpine | 3.21 | 6.12 |
 | (2026-12) | RedHat | Fedora | 43 | 6.17 |
 | **2027-04**(standard support) | **Debian** | **Ubuntu** | **22.04 (Jammy)** | 5.15 |
 | 2027-05 | Alpine | Alpine | 3.22 | 6.12 |
 | 2027-10 | OpenSuse | Leap | 16.0 | 6.12 |
-| **2028-06** | **Debian** | **Debian** | **12 (Bookworm) LTS support** | 6.1 |
-| **2028-08** | **Debian** | **Debian** | **13 (Trixie)** | 6.12 |
+| **2028-06** | **Debian** | **Debian** | **12 (Bookworm) [LTS support]** | 6.1 |
+| **2028-08** | **Debian** | **Debian** | **13 (Trixie) [Sec support]** | 6.12 |
 | **2029-04** (standard support) | **Debian** | **Ubuntu** | **24.04 (Noble)** | 6.8 | 
 | **2029** | **RedHat** | **RHEL 8** / AlmaLinux 8 (Mar) /  RockyLinux 8 (May) / Oracle Linux (Jul) | **8** | **4.18** |
-| **2030-08** | **Debian** | **Debian** | **13 (Trixie) LTS support** | 6.12 |
+| **2030-08** | **Debian** | **Debian** | **13 (Trixie) [LTS support]** | 6.12 |
 | **2032** | **RedHat** | **RHEL 9** / AlmaLinux 9 (Mar) /  RockyLinux 9 (May) / Oracle Linux (Jun) | **9** | **5.14** |
 | **2035** | **RedHat** | **RHEL 10** / AlmaLinux 10 (Mar) /  RockyLinux 10 (May) / Oracle Linux (TBD) | **10** | **6.12** |
 
